@@ -29,5 +29,10 @@ This project focuses on building and enhancing a **Sales Insights Dashboard** us
 4. Connect to your data sources (Excel, SQL Server, etc.).
 5. Adjust filters, parameters, and visualizations as needed to tailor the dashboard to your specific data.
 
+![main_page-0002](https://github.com/user-attachments/assets/949a32dd-f24d-4e5b-a14c-f6f64b2d1850)
+![main_page-0001](https://github.com/user-attachments/assets/85a3fa75-30f0-4bb0-b53f-5b2977a18492)
+![main_page-0003](https://github.com/user-attachments/assets/53cd15bc-f699-4a3c-9046-2fb7318522a8)
+
+
 --- 
 
